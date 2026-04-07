@@ -69,22 +69,6 @@ To explain **why digital capability does not translate into actual usage**, even
 
 ---
 
-## 📁 Repository Structure
-digital-skills-paradox-nsso-india/
-│
-├── data/
-│ └── DATA.md
-│
-├── code/
-│ └── data_cleaning_analysis.R
-│
-├── report/
-│ └── digital_skills_paradox_report.pdf
-│
-└── README.md
-
----
-
 ## 👩‍💻 Author
 **Anjali Arya**  
 Data Analytics Student  
