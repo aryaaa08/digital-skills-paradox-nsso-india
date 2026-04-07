@@ -1,1 +1,12 @@
+The dataset used in this project is from:
 
+NSSO 80th Round Modular Telecom Survey (2025)
+
+Due to data usage restrictions, the raw dataset is not publicly uploaded.
+
+To access the data:
+Visit: https://mospi.gov.in/
+
+Required files:
+- CMST80HH (Household dataset)
+- CMST80PER (Person dataset)
